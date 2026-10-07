@@ -1,0 +1,16 @@
+# streamlit
+# opencv-python
+# mediapipe==0.10.14
+# numpy<2
+# pillow
+# google-genai
+ 
+
+
+numpy==1.26.4
+opencv-contrib-python==4.9.0.80
+mediapipe==0.10.14
+protobuf==4.25.5
+streamlit
+pillow
+google-genai
